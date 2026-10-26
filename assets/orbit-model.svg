@@ -40,16 +40,6 @@
     </style>
   </defs>
 
-  <g clip-path="url(#of)">
-    <rect width="880" height="440" fill="#0E0E14"/>
-    <rect width="880" height="440" fill="url(#og)"/>
-  </g>
-  <rect x="1" y="1" width="878" height="438" rx="16" fill="none" stroke="#2A2A3A" stroke-width="1.5"/>
-  <path d="M1,32 V17 Q1,1 17,1 H863 Q879,1 879,17 V32 Z" fill="#14141D"/>
-  <line x1="1" y1="32" x2="879" y2="32" stroke="#2A2A3A"/>
-  <circle cx="22" cy="17" r="5" fill="#3A3A4E"/><circle cx="40" cy="17" r="5" fill="#3A3A4E"/><circle cx="58" cy="17" r="5" fill="#A268F8"/>
-  <text x="440" y="21" text-anchor="middle" class="m bar">orbit://security-model — how security is actually scored</text>
-
   <g class="m">
     <text x="30" y="70" class="kick">HOW ORBIT SCORES SECURITY</text>
     <text x="30" y="100" class="ttl"><tspan class="a">Score</tspan> = Coverage <tspan class="a">×</tspan> Maturity <tspan class="a">×</tspan> Validation</text>
@@ -60,8 +50,7 @@
   <g class="m">
     <!-- C -->
     <rect x="30" y="134" width="260" height="138" rx="10" fill="#14141D" stroke="#2E2442" stroke-width="1.2"/>
-    <text x="48" y="174" class="L">C</text>
-    <text x="80" y="170" class="N">COVERAGE</text>
+    <text x="48" y="174" class="L">COVERAGE</text>
     <text x="48" y="200" class="Q">Are the right assets in scope?</text>
     <text x="48" y="218" class="D">critical assets · IT · cloud · OT/ICS</text>
     <rect x="48" y="234" width="224" height="7" rx="3.5" fill="#22222F"/>
@@ -73,8 +62,7 @@
 
     <!-- M -->
     <rect x="310" y="134" width="260" height="138" rx="10" fill="#14141D" stroke="#2E2442" stroke-width="1.2"/>
-    <text x="328" y="174" class="L">M</text>
-    <text x="362" y="170" class="N">MATURITY</text>
+    <text x="328" y="174" class="L">MATURITY</text>
     <text x="328" y="200" class="Q">How well is it operated?</text>
     <text x="328" y="218" class="D">process · ownership · repeatability</text>
     <rect x="328" y="234" width="224" height="7" rx="3.5" fill="#22222F"/>
@@ -86,8 +74,7 @@
 
     <!-- V -->
     <rect x="590" y="134" width="260" height="108" rx="10" fill="#14141D" stroke="#F06292" stroke-opacity=".55" stroke-width="1.2"/>
-    <text x="608" y="174" class="L">V</text>
-    <text x="640" y="170" class="N">VALIDATION</text>
+    <text x="608" y="174" class="L">VALIDATION</text>
     <text x="608" y="200" class="Q">Is it proven to work?</text>
     <text x="608" y="218" class="D">testing · telemetry · evidence</text>
     <rect x="608" y="234" width="224" height="7" rx="3.5" fill="#22222F"/>
