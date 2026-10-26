@@ -41,10 +41,10 @@
   </defs>
 
     <g clip-path="url(#of)">
-    <rect width="880" height="240" fill="#0E0E14"/>
-    <rect width="880" height="240" fill="url(#og)"/>
+    <rect width="880" height="340" fill="#0E0E14"/>
+    <rect width="880" height="340" fill="url(#og)"/>
   </g>
-  <rect x="1" y="1" width="878" height="438" rx="16" fill="none" stroke="#2A2A3A" stroke-width="1.5"/>
+  <rect x="1" y="1" width="878" height="340" rx="16" fill="none" stroke="#2A2A3A" stroke-width="1.5"/>
   <path d="M1,32 V17 Q1,1 17,1 H863 Q879,1 879,17 V32 Z" fill="#14141D"/>
   <line x1="1" y1="32" x2="879" y2="32" stroke="#2A2A3A"/>
   <circle cx="22" cy="17" r="5" fill="#3A3A4E"/><circle cx="40" cy="17" r="5" fill="#3A3A4E"/><circle cx="58" cy="17" r="5" fill="#A268F8"/>
