@@ -11,7 +11,7 @@
 
 <br/>
 
-**Cyber Risk & Strategy** with **8+ years** driving enterprise-wide cyber resilience across critical infrastructure, hybrid cloud, SaaS, and OT/ICS environments. Proven in leading high-stakes transformations, including a **$270M industrial M&A**, achieving **80% enterprise risk reduction**, automating security controls, and enforcing continuous compliance with **ISO 27001, SOC 2, NIST, and ISA/IEC 62443** without disrupting operations. Expert in architecting risk-based security programs that align security controls with business objectives, translating complex cyber risk into **board-level insights and actionable strategic decisions**. Adept at bridging hands-on engineering, advisory, and pre-sales engagements to secure multi-billion-dollar assets, optimize operational resilience, and drive measurable business outcomes across multi-cloud, hybrid, and industrial ecosystems.
+**Arlindo Cossa Junior** - **Cyber Risk & Strategy** with **8+ years** driving enterprise-wide cyber resilience across critical infrastructure, hybrid cloud, SaaS, and OT/ICS environments. Proven in leading high-stakes transformations, including a **$270M industrial M&A**, achieving **80% enterprise risk reduction**, automating security controls, and enforcing continuous compliance with **ISO 27001, SOC 2, NIST, and ISA/IEC 62443** without disrupting operations. Expert in architecting risk-based security programs that align security controls with business objectives, translating complex cyber risk into **board-level insights and actionable strategic decisions**. Adept at bridging hands-on engineering, advisory, and pre-sales engagements to secure multi-billion-dollar assets, optimize operational resilience, and drive measurable business outcomes across multi-cloud, hybrid, and industrial ecosystems.
 
 <div align="center">
 
@@ -118,7 +118,7 @@ The **Reference Guide** represents the technical implementation reference guides
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/arlindo0x73/arlindo0x73/output/snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arlindo0x73/arlindo0x73/output/snake-light.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/arlindo0x73/arlindo0x73/output/snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/arlindo0x73/output/snake-dark.svg"/> 
 </picture>
 
 </div>
