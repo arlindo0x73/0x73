@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="440" role="img" aria-label="ORBIT Security Model. Score = Coverage × Maturity × Validation. Coverage: are the right assets and risks in scope. Maturity: how well is it operated. Validation: is it proven to work. Illustrative example: an additive average of 0.90, 0.80 and 0.20 gives 0.63, while ORBIT's product gives 0.14, exposing the validation gap.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="340" role="img" aria-label="ORBIT Security Model. Score = Coverage × Maturity × Validation. Coverage: are the right assets and risks in scope. Maturity: how well is it operated. Validation: is it proven to work. Illustrative example: an additive average of 0.90, 0.80 and 0.20 gives 0.63, while ORBIT's product gives 0.14, exposing the validation gap.">
   <defs>
     <pattern id="og" width="22" height="22" patternUnits="userSpaceOnUse">
       <path d="M22 0H0V22" fill="none" stroke="#1A1A26" stroke-width="1"/>
