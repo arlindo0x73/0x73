@@ -41,8 +41,8 @@
   </defs>
 
     <g clip-path="url(#of)">
-    <rect width="880" height="440" fill="#0E0E14"/>
-    <rect width="880" height="440" fill="url(#og)"/>
+    <rect width="880" height="240" fill="#0E0E14"/>
+    <rect width="880" height="240" fill="url(#og)"/>
   </g>
   <rect x="1" y="1" width="878" height="438" rx="16" fill="none" stroke="#2A2A3A" stroke-width="1.5"/>
   <path d="M1,32 V17 Q1,1 17,1 H863 Q879,1 879,17 V32 Z" fill="#14141D"/>
