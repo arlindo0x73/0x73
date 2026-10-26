@@ -96,26 +96,6 @@
     <text x="832" y="260" text-anchor="end" class="V" style="fill:#F06292">0.20 ⚠</text>
   </g>
 
-  <!-- comparison -->
-  <rect x="30" y="290" width="820" height="112" rx="10" fill="#111119" stroke="#2A2A3A"/>
-  <g class="m">
-    <text x="48" y="326" class="lab">ADDITIVE</text>
-    <text x="150" y="326" class="f">avg(0.90, 0.80, 0.20)</text>
-    <rect x="345" y="317" width="320" height="10" rx="5" fill="#1C1C28"/>
-    <rect x="345" y="317" width="202" height="10" rx="5" fill="#5E5E78" class="g4" style="transform-origin:345px 322px"/>
-    <text x="680" y="327" class="f big" style="fill:#9A9AB2">0.63</text>
-    <text x="740" y="326" class="D">looks secure</text>
-
-    <text x="48" y="370" class="lab" style="fill:#A268F8">ORBIT</text>
-    <text x="150" y="370" class="f">0.90 × 0.80 × 0.20</text>
-    <rect x="345" y="361" width="320" height="10" rx="5" fill="#1C1C28"/>
-    <rect x="345" y="361" width="46" height="10" rx="5" fill="url(#ob)" class="g5" style="transform-origin:345px 366px"/>
-    <text x="680" y="371" class="big a">0.14</text>
-    <text x="740" y="370" class="D alert" style="fill:#F06292">real exposure</text>
-
-    <line x1="48" y1="386" x2="832" y2="386" stroke="#1C1C28"/>
-    <text x="440" y="397" text-anchor="middle" class="S">ILLUSTRATIVE VALUES</text>
-  </g>
 
   <text x="74" y="426" class="m cap">Multiplicative by design: one unproven dimension collapses the score. <tspan class="a">Unvalidated security is assumed security.</tspan></text>
 </svg>
