@@ -27,13 +27,13 @@
 
 The **ORBIT Security Model (OSM)** is a proprietary cybersecurity governance and maturity framework that translates security into executive language — enabling leadership to understand where the organization is today, where it needs to go, and which decisions and investments deliver the greatest risk reduction and business value. At the core of ORBIT is the **OSM‑CMM**, the "measurement scale" that structures this evolution into clear maturity levels, with objective criteria and evidence — creating a comparable, auditable, and roadmap-driven view.
 
+<img src="./assets/orbit-flow.svg" width="100%" alt="ORBIT decision flow: business context → critical assets & impact → threat & exposure → risk treatment priorities → measurable outcomes → continuous improvement"/>
+
 #### Reference Guide
 
 The **Reference Guide** represents the technical implementation reference guides for the OSM‑CMM: practical documents that explain how to implement each requirement, control and capability assessed by the model — including standards, procedures, evidence examples, reference configurations, and validation criteria — serving as a direct bridge between maturity assessment and hands-on technical execution.
 
 <img src="./assets/orbit-model.svg" width="100%" alt="ORBIT Security Model — Score = Coverage × Maturity × Validation"/>
-
-<img src="./assets/orbit-flow.svg" width="100%" alt="ORBIT decision flow: business context → critical assets & impact → threat & exposure → risk treatment priorities → measurable outcomes → continuous improvement"/>
 
 > Maturity is measured by outcomes and risk reduction — never by controls counted or tools deployed.
 
